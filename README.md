@@ -2,9 +2,6 @@
 
 Joke Teller is a fun web application that fetches jokes from a joke API and converts them into speech using the VoiceRSS API. Simply press the "Tell Me A Joke" button, and the application will fetch a joke and read it out loud using the voice of "Linda."
 
-## Demo
-
-You can try out the Joke Teller application live [here](https://JSoto56.github.io/joke-teller/).
 
 ## Table of Contents
 
